@@ -1,0 +1,90 @@
+{
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "tabname": "Chi tiết",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "AudioRecorder Dropbox Addon",
+                    "shortDescription": "Dropbox addon for AudioRecorder XS"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### Description\n\nDropbox addon for AudioRecorder XS",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Architecture",
+                    "text": "iphoneos-arm64e"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer",
+                    "text": "Elias Limneos <limneoselias@gmail.com>"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": "Elias Limneos <limneoselias@gmail.com>"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "Utilities"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Depends",
+                    "text": "net.limneos.audiorecorderxs(>=4.0-155)"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Download .deb",
+                    "action": "openURL",
+                    "url": "https://sileovn.github.io/pool/com.sileovn.audiorecorderdropbox/com.sileovn.audiorecorderdropbox_1.0_iphoneos-arm64e.deb",
+                    "openExternal": true
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "Https://sileovn.github.io (c) Hoàn Pro",
+                    "textColor": "#999999",
+                    "fontSize": 12,
+                    "alignment": 1
+                }
+            ]
+        },
+        {
+            "tabname": "Nhật ký thay đổi",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "#### Version 1.0\n\nĐẳng cấp VIP"
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "—",
+                    "textColor": "#999999",
+                    "fontSize": 10,
+                    "alignment": 1
+                }
+            ]
+        }
+    ],
+    "tintColor": "#5777B8"
+}

@@ -1,0 +1,90 @@
+{
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "tabname": "Chi tiết",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "No Apple MobileRepair",
+                    "shortDescription": "No Apple MobileRepair"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### Description\n\nNo Apple MobileRepair",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "0.0.1-104"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Architecture",
+                    "text": "iphoneos-arm64e"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer",
+                    "text": "xybp888"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": "xybp888"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "Tweaks"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Depends",
+                    "text": "mobilesubstrate (>= 0.9.5000)"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Download .deb",
+                    "action": "openURL",
+                    "url": "https://sileovn.github.io/pool/com.sileovn.noapplemobilerepair/com.sileovn.noapplemobilerepair_0.0.1-104_iphoneos-arm64e.deb",
+                    "openExternal": true
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "Https://sileovn.github.io (c) Hoàn Pro",
+                    "textColor": "#999999",
+                    "fontSize": 12,
+                    "alignment": 1
+                }
+            ]
+        },
+        {
+            "tabname": "Nhật ký thay đổi",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "#### Version 0.0.1-104\n\nĐẳng cấp VIP"
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "—",
+                    "textColor": "#999999",
+                    "fontSize": 10,
+                    "alignment": 1
+                }
+            ]
+        }
+    ],
+    "tintColor": "#5777B8"
+}

@@ -1,0 +1,489 @@
+Package: com.hitori.misaki
+Name: Misaki
+Version: 2.2
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Author: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1049
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Filename: pool/com.hitori.misaki/com.hitori.misaki_2.2_iphoneos-arm64e.deb
+Size: 368720
+MD5sum: bf993f8ebcea93456812519cfa21d6c4
+SHA1: b58a167fb598ddc375c46d1e7c5c5483d964ce83
+SHA256: 84cfad2606b3d4e3e5b42909b8a6a1b207da2cd5c3f69e603b91b295dbbe1bf9
+SileoDepiction: https://sileovn.github.io/depictions/com.hitori.misaki.json
+Depiction: https://sileovn.github.io/depictions/html/com.hitori.misaki.html
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+
+Package: com.mrgcgamer.libgcuniversal
+Name: LibGcUniversal
+Version: 1.6.4
+Architecture: iphoneos-arm64e
+Section: Development
+Maintainer: MrGcGamer
+Author: MrGcGamer
+Installed-Size: 296
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Filename: pool/com.mrgcgamer.libgcuniversal/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm64e.deb
+Size: 71048
+MD5sum: e98af2d7f6955e744ec23506665d5098
+SHA1: f490e3ce9500b6002e32869795628d134d0eab07
+SHA256: c1da38d4ad160e4aadd63e7281f7d892a43f580b484908b384d446b39ca25453
+SileoDepiction: https://sileovn.github.io/depictions/com.mrgcgamer.libgcuniversal.json
+Depiction: https://sileovn.github.io/depictions/html/com.mrgcgamer.libgcuniversal.html
+Description: An awesome library of some sort!!
+
+Package: com.sileovn.audiorecorderdropbox
+Name: AudioRecorder Dropbox Addon
+Version: 1.0
+Architecture: iphoneos-arm64e
+Section: Utilities
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Author: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 40103
+Depends: net.limneos.audiorecorderxs(>=4.0-155)
+Filename: pool/com.sileovn.audiorecorderdropbox/com.sileovn.audiorecorderdropbox_1.0_iphoneos-arm64e.deb
+Size: 4259188
+MD5sum: b670c18dd420b434e3707f162c851829
+SHA1: dae4a8af9339d9b26dc9066a2122d9408dc19739
+SHA256: c6f19ca3fc884ac491762cf98688305880c7c66d4ca36b59d7e8b803d2a4c43d
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.audiorecorderdropbox.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.audiorecorderdropbox.html
+Description: Dropbox addon for AudioRecorder XS
+
+Package: com.sileovn.audiorecorderxs
+Name: AudioRecorder
+Version: 5.1-12
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Author: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 6136
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-roothide, firmware(>=15.0)
+Filename: pool/com.sileovn.audiorecorderxs/com.sileovn.audiorecorderxs_5.1-12_iphoneos-arm64e.deb
+Size: 1192652
+MD5sum: e3b9002235f99cf5e8063deb1755ed21
+SHA1: b806703041c98f036bf7d8f66035975d940c1bdf
+SHA256: 804400c06028b1eecdf236e15e77b95a07a3989a59a0c5b8b6996b1ecff8c4a5
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.audiorecorderxs.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.audiorecorderxs.html
+Description: Most Advanced iOS Call Recorder Ever!
+
+Package: com.sileovn.autounlockx
+Name: AutoUnlockX
+Version: 1.1.0-rootless
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: Spark
+Author: Spark
+Installed-Size: 416
+Depends: mobilesubstrate, preferenceloader
+Filename: pool/com.sileovn.autounlockx/com.sileovn.autounlockx_1.1.0-rootless_iphoneos-arm64e.deb
+Size: 65412
+MD5sum: 8b8557cfee9386f6cda72a11fec1dafe
+SHA1: 04da3fc89ced3ad2abd9be7b61fe3e9cd5d327b1
+SHA256: 3706749eddd8dd8cd9c43f81ea4571ff47152d6e0b2768641dd7bd15943b4346
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.autounlockx.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.autounlockx.html
+Description: Unless there are notifications, the device will automatically unlock when valid Face ID is detected
+
+Package: com.sileovn.bioprotect
+Name: BioProtect
+Version: 4.6-222
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Author: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 3148
+Depends: mobilesubstrate, preferenceloader
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Filename: pool/com.sileovn.bioprotect/com.sileovn.bioprotect_4.6-222_iphoneos-arm64e.deb
+Size: 665460
+MD5sum: ca8dbd4963d64b3f6668b84e1d57b5b8
+SHA1: 910bc876d4338f7c56af802cdc217464e36b92fa
+SHA256: 956657d1da06d435ce20c6e27ff28656588ec6ef00b7b3ebd8de81258667068f
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.bioprotect.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.bioprotect.html
+Description: Protect your apps with Touch/Face ID!
+
+Package: com.sileovn.bioprotectxs
+Name: BioProtect
+Version: 4.6-222
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Author: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 3148
+Depends: mobilesubstrate, preferenceloader
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Filename: pool/com.sileovn.bioprotectxs/com.sileovn.bioprotectxs_4.6-222_iphoneos-arm64e.deb
+Size: 666464
+MD5sum: bcae68456af94a01771b522047a54488
+SHA1: 38c784555989d0b95e87829b02c48a7ed91623d5
+SHA256: 3abddeaff7d0bc5135ee1ba93b961a61193a6fae280d8f7394b3be063662e83d
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.bioprotectxs.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.bioprotectxs.html
+Description: Protect your apps with Touch/Face ID!
+
+Package: com.sileovn.callassist16
+Name: CallAssist
+Version: 1.7.9
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: xybp888
+Author: xybp888 <8657156@qq.com>
+Depends: firmware (>= 15.0), ellekit, preferenceloader
+Filename: pool/com.sileovn.callassist16/com.sileovn.callassist16_1.7.9_iphoneos-arm64e.deb
+Size: 2811916
+MD5sum: 93fc06a8ca21e198ac8387787b057e60
+SHA1: 6e460c7b342ae46ca7ebc2085d28ce86e2563e0d
+SHA256: 6831440be1e312896335a0f86216959122f3771682271fcaac1c747caa3fc133
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.callassist16.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.callassist16.html
+Description: 半越狱 版本：  提示：需要激活后才可以使用，没有换设备的直接管  理配置中找回授权或者使用你的激活码激活  1.T9键盘搜索，双卡选卡拨打等.锁屏来电显示拒接  按钮  2.来去电接通振动，挂断振动，来去电归属地显示  3.支持骚扰拦截，自定义黑名单，区域骚扰拦截操作，  还可使用360管家类数据库识别骚扰  4.短信归属地，短信双卡选卡等.  5.通话记录合并（破条数限制除外-需越狱），通讯录显  示头像，号码等  • 重要提示：  状态栏美化部分，通话录音，及桌面相关功能还需要你用 Serotonin 引导成功后才行!  请在 Bootstarp中应用列表 并启用以下进程注入：  com.apple.InCallService  com.apple.mobilephone  com.apple.MobileSMS  com.apple.MobileAddressBook  com.apple.Preferences
+
+Package: com.sileovn.callassist16VH
+Name: CallAssist VH
+Version: 1.0
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: SileoVn
+Author: SileoVN
+Depends: firmware (>= 15.0), ellekit, preferenceloader
+Filename: pool/com.sileovn.callassist16vh/com.sileovn.callassist16vh_1.0_iphoneos-arm64e.deb
+Size: 24240
+MD5sum: c783b597cbe4ffae9e07ceada0444546
+SHA1: 59a17cf6d1dd48f581cb592da91eb2ec8ccd7a7d
+SHA256: f539fb48991fd23c489d07c8110fa4a53c5c916e9651b314c396b46df23d238c
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.callassist16vh.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.callassist16vh.html
+Description: Viet hoa CallAssist
+
+Package: com.sileovn.ChargeLimiter
+Name: ChargeLimiter
+Version: 1.6
+Architecture: iphoneos-arm64e
+Section: Applications
+Maintainer: chaoge
+Author: chaoge
+Depends: firmware (>= 5.0)
+Filename: pool/com.sileovn.chargelimiter/com.sileovn.chargelimiter_1.6_iphoneos-arm64e.deb
+Size: 1996376
+MD5sum: d64e01769b2704b84e266e501637627e
+SHA1: 3fc23b51075dfa928fcefbc4a0274122706519a5
+SHA256: 3afc6f0b0dfbe6a147ef1858d40409673156e3acd0f17fff9256a84f934276b0
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.chargelimiter.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.chargelimiter.html
+Description: ChargeLimiter
+
+Package: com.sileovn.crane
+Name: Crane
+Version: 1.3.16-4K
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: hoan
+Author: opa334
+Installed-Size: 3232
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Filename: pool/com.sileovn.crane/com.sileovn.crane_1.3.16-4k_iphoneos-arm64e.deb
+Size: 612100
+MD5sum: 6574fbebd3e5baa30498d8413342cd21
+SHA1: bfa99e6ca28aa2b25e7028e77babd3422ea01e6e
+SHA256: 24f8a74dd18fb166ef8bff174c10b8af13a6f71fa45e1a4c55da414fc814166b
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.crane.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.crane.html
+Description: Multiple containers for your applications!
+
+Package: com.sileovn.cydown
+Name: CyDown++
+Version: 7.2.0
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: Hoan
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: pool/com.sileovn.cydown/com.sileovn.cydown_7.2.0_iphoneos-arm64e.deb
+Size: 1183284
+MD5sum: 213590c122fb0f64d49702ac06dc566d
+SHA1: 7cfaa6bd9c8886509c4549cae11fa5fa537b1fed
+SHA256: 2b421be5b2a00e02debc8f1b0e9616b53802cd58919f70f7716d4c4dcafdc4c4
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.cydown.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.cydown.html
+Description: Download tweaks for free
+
+Package: com.sileovn.dynamicnotlands.r2
+Name: DynamicNotLand
+Version: 1.2.4
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: hoan
+Author: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: pool/com.sileovn.dynamicnotlands.r2/com.sileovn.dynamicnotlands.r2_1.2.4_iphoneos-arm64e.deb
+Size: 14120
+MD5sum: c0b6143ae193039df769ec36ecdb38fc
+SHA1: 83984dc3aa6e2622f62f79f8461b27d25e676652
+SHA256: 79c9a9fd365466799c63c53ac6167d4b6ea95958c02dbc484ab500fa3b764735
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.dynamicnotlands.r2.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.dynamicnotlands.r2.html
+Description: Một tinh chỉnh để che giấu hòn đảo năng động trên loạt 14 Pro khi nó không được sử dụng!
+
+Package: com.sileovn.filzacrack
+Name: Filza Cr@ck
+Version: 1.1-8
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: Nets
+Author: Netskao
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Homepage: https://tigisoftware.com/cydia/
+Filename: pool/com.sileovn.filzacrack/com.sileovn.filzacrack_1.1-8_iphoneos-arm64e.deb
+Size: 5868
+MD5sum: daca2bb42b13fd1fd47452ba6f17edd2
+SHA1: 00cb83e928a71fa90016c168a09ea02ac129edcf
+SHA256: d73522e15ec6f739878e94716ea889d1d20909313e2f6051c6cf1e6c94a91eb4
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.filzacrack.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.filzacrack.html
+Description: Filza unlock full functionality, the main program please install in the official source
+
+Package: com.sileovn.griddy-r2
+Name: Griddy
+Version: 1.0.4k
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: mikifp
+Author: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: pool/com.sileovn.griddy-r2/com.sileovn.griddy-r2_1.0.4k_iphoneos-arm64e.deb
+Size: 20744
+MD5sum: a1ceae99864c3790c9a815b30c601231
+SHA1: ed486b5633a78123e38d9af15e36cbe2878084ad
+SHA256: 9493cccc0af732dd5be081b94c6e028f9914eb198a97e73b9563dccf209bcfd2
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.griddy-r2.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.griddy-r2.html
+Description: Layout your icons anywhere you want!
+
+Package: com.sileovn.hideserialnumber
+Name: HideSerialNumber
+Version: 0.0.4
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: ichitaso
+Author: ichitaso
+Installed-Size: 472
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Homepage: https://cydia.ichitaso.com/depiction/hidesn.html
+Icon: https://i.imgur.com/uFWkBXD.png
+Filename: pool/com.sileovn.hideserialnumber/com.sileovn.hideserialnumber_0.0.4_iphoneos-arm64e.deb
+Size: 55088
+MD5sum: 81d14eef4ae53ebf5670e879b53a9adf
+SHA1: d3ed46535507856ace9c6a801375d79156549557
+SHA256: 26212892390161dd5463aa40796da96b03aa4e5fa5ec066b23c67b7794a43ada
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.hideserialnumber.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.hideserialnumber.html
+Description: Hide Serial Number in Settings About page.
+
+Package: com.sileovn.icatch
+Name: iCatch
+Version: 1.1-120
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: DeNsor
+Author: DeNsor
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: pool/com.sileovn.icatch/com.sileovn.icatch_1.1-120_iphoneos-arm64e.deb
+Size: 30732
+MD5sum: 304a907f4388c5b6ec740b5ef9b9c7e3
+SHA1: 0e12bc88e9a54b2e2827e84195f727c38a645c9f
+SHA256: 04fd4aff23802438168a93f9c525242a7274666c2f2df20c8cfe9b0d7c679653
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.icatch.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.icatch.html
+Description: iCatch detects every .deb file you download from Sileo & Zebra
+
+Package: com.sileovn.icleanerpro
+Name: iCleaner Pro
+Version: 7.10.0
+Architecture: iphoneos-arm64e
+Section: Utilities
+Maintainer: Hoan
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Homepage: http://ib-soft.net/icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Filename: pool/com.sileovn.icleanerpro/com.sileovn.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Size: 1107724
+MD5sum: 0747c6e9d0d682a9cdf9a84bb9194ac6
+SHA1: 35bf75b02083c978e5df1e16c54f991f19be8a89
+SHA256: b443b4d3435bce11dba5611082de37a75bf2fe6027aaa49746167ee43ab48c1e
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.icleanerpro.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.icleanerpro.html
+Description: Tiện ích quản lý và dọn dẹp hệ thống iOS
+
+Package: com.sileovn.infobar
+Name: Tapii
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: mostafa89 <ella89sp@yahoo.com>
+Installed-Size: 501
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14), com.mrgcgamer.libgcuniversal
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tapiiDp
+Icon: file:///var/jb/Library/PreferenceBundles/Tapii.bundle/icon@2x.png
+Filename: pool/com.sileovn.infobar/com.sileovn.infobar_1.2.0_iphoneos-arm64e.deb
+Size: 154924
+MD5sum: d6368b75d553c7edc85feb98af39f947
+SHA1: 04948ee1a847a9686633698cbb042922fcec6779
+SHA256: e80a9d7db8bfdf2270ce7872613d6daef75566ef464d3fdf04bda1b41c97d95f
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.infobar.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.infobar.html
+Description: New Statusbar features!!
+
+Package: com.sileovn.limneos
+Name: Limneos tweak Cr@ck
+Version: 1.1-3
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: Net
+Author: Netskao
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: pool/com.sileovn.limneos/com.sileovn.limneos_1.1-3_iphoneos-arm64e.deb
+Size: 11640
+MD5sum: de55718c4df1347867b9101bd39e0cb4
+SHA1: dedc666d66cf1d18f78ed8c7e4fa5dacf82ad113
+SHA256: a6db5197eca270e84d245e3e900d6a42259811b8485463732aa45d75aab0d9c7
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.limneos.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.limneos.html
+Description: Buy tweak limeos
+
+Package: com.sileovn.noapplemobilerepair
+Name: No Apple MobileRepair
+Version: 0.0.1-104
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: xybp888
+Author: xybp888
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: pool/com.sileovn.noapplemobilerepair/com.sileovn.noapplemobilerepair_0.0.1-104_iphoneos-arm64e.deb
+Size: 10736
+MD5sum: e63be9d4e06bc8c957b5b75d3759e9cb
+SHA1: 3e3d24398ab072f46644c7dad88d1911b5a920e8
+SHA256: a6695047e27bd59ca6d15b43cfe7a32f530fe0b2c718afdc53552510c5f878bb
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.noapplemobilerepair.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.noapplemobilerepair.html
+Description: No Apple MobileRepair
+
+Package: com.sileovn.perfectdynamiclsland
+Name: PerfectDynamiclsland
+Version: 1.2-19
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: xybp888
+Author: xybp888
+Depends: firmware (>= 16.0), mobilesubstrate
+Filename: pool/com.sileovn.perfectdynamiclsland/com.sileovn.perfectdynamiclsland_1.2-19_iphoneos-arm64e.deb
+Size: 481752
+MD5sum: e706581281231a583717861416636739
+SHA1: 128eaa310488387620e6370d3998ee9319e3c7d3
+SHA256: 68bba23d14b25809f6d6edd1c4e83ad4a37298f4cc005ca34a74837abfc92daa
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.perfectdynamiclsland.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.perfectdynamiclsland.html
+Description: 完美的使用原生灵动岛展示系统通知等... https://apt.htv123.com/view/254
+
+Package: com.sileovn.voicechanger
+Name: VoiceChanger
+Version: 2.4-3
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Author: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 1420
+Depends: mobilesubstrate, preferenceloader
+Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
+Filename: pool/com.sileovn.voicechanger/com.sileovn.voicechanger_2.4-3_iphoneos-arm64e.deb
+Size: 234500
+MD5sum: 2e90283494166c5f722a2d232563d0ef
+SHA1: bcc80658ca2e5e8c1cb6fa54c261eadeb3b48c52
+SHA256: cc010158bf31a3a4fbb0eab913df77afa3259ce26f0aa71469f8b42ae2ce1c6b
+SileoDepiction: https://sileovn.github.io/depictions/com.sileovn.voicechanger.json
+Depiction: https://sileovn.github.io/depictions/html/com.sileovn.voicechanger.html
+Description: Change your voice during a call!
+
+Package: com.spark.snowboard
+Name: SnowBoard
+Version: 1.5.37-Beta4
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: Spark
+Author: Spark & Dennis D. Bednarz
+Installed-Size: 3268
+Depends: mobilesubstrate, preferenceloader
+Filename: pool/com.spark.snowboard/com.spark.snowboard_1.5.37-beta4_iphoneos-arm64e.deb
+Size: 1130204
+MD5sum: d39434db63c144bb6561acd52309a661
+SHA1: b28c6a99ec318194c0cadfe753af9c354ff64517
+SHA256: 133df06709a5167af3eaedb0922a7896697c232ac89559e706c52a5df32e8e2b
+SileoDepiction: https://sileovn.github.io/depictions/com.spark.snowboard.json
+Depiction: https://sileovn.github.io/depictions/html/com.spark.snowboard.html
+Description: Snowboard theming engine
+
+Package: com.xybp888.callassist16.dopamine.roothide
+Name: 电话助手iOS16-正式版(Roothide)
+Version: 1.7.2
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: xybp888
+Author: xybp888
+Depends: firmware (>= 16.0), preferenceloader, com.opa334.libsandy
+Filename: pool/com.xybp888.callassist16.dopamine.roothide/com.xybp888.callassist16.dopamine.roothide_1.7.2_iphoneos-arm64e.deb
+Size: 2742194
+MD5sum: d34db6d716c2bf69f432975f411fc818
+SHA1: 9ce259494336396dd58bd1f628178fe3fe8ca97f
+SHA256: 2b83debf7830819aa0e013a4cb0d5bd6fa25eb182b938c9cf9518c244f64f23b
+SileoDepiction: https://sileovn.github.io/depictions/com.xybp888.callassist16.dopamine.roothide.json
+Depiction: https://sileovn.github.io/depictions/html/com.xybp888.callassist16.dopamine.roothide.html
+Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
+
+Package: net.limneos.simpleactivationactions-roothide
+Name: SimpleActivationActions
+Version: 0.1-1
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Author: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: pool/net.limneos.simpleactivationactions-roothide/net.limneos.simpleactivationactions-roothide_0.1-1_iphoneos-arm64e.deb
+Size: 7028
+MD5sum: 93984d9623891be6449902f895b30728
+SHA1: 687c3aa5cf3b7ea648c157f240a4303606578430
+SHA256: b7baca373a8ff874e84e2047c67c9e68a06409c6fff0d2421c30266605f30d71
+SileoDepiction: https://sileovn.github.io/depictions/net.limneos.simpleactivationactions-roothide.json
+Depiction: https://sileovn.github.io/depictions/html/net.limneos.simpleactivationactions-roothide.html
+Description: Simple Activation Actions  Handles StatusBar actions for simple activation events
+
+Package: net.tateu.moorebarx15
+Name: MooreBarX15
+Version: 1.0.0~beta1.0.4
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Installed-Size: 968
+Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: pool/net.tateu.moorebarx15/net.tateu.moorebarx15_1.0.0_beta1.0.4_iphoneos-arm64e.deb
+Size: 212788
+MD5sum: 6dd612604a798a96be87ba96a8cba343
+SHA1: ebee5306991684688bd545e87ce67583c5fbb2be
+SHA256: b3c86c6067363604d955a2277be4d32538b778a4c4439d9f8545fe2b243b2c8f
+SileoDepiction: https://sileovn.github.io/depictions/net.tateu.moorebarx15.json
+Depiction: https://sileovn.github.io/depictions/html/net.tateu.moorebarx15.html
+Description: More StatusBar icons.
+

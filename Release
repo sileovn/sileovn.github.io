@@ -1,8 +1,18 @@
-Origin: Repo SileoVN RootHide
-Label: Repo SileoVN RootHide
+Origin: Repo SileoVN
+Label: Repo SileoVN
 Suite: stable
 Version: 1.0
-Codename: Repo SileoVN RootHide
-Architectures: iphoneos-arm64e
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description:  Repo SileoVN RootHide
+Description: Đằng cấp VIP.
+Date: Sun, 21 Sep 2025 09:24:45 GMT
+MD5Sum:
+ 7e4c93d31dd89a45e7a16814787f0b51 21873 Packages
+ ceeb620059a97f3e8f39b0400fa83ea5 6851 Packages.gz
+SHA1:
+ b344a955a12d73eba061a2f2729808b0334c0614 21873 Packages
+ 2092f67e55f90fa1cffa5928c67c2a245845fdee 6851 Packages.gz
+SHA256:
+ 9f8d15a7b64e0e1dd7680700a211b1c38e6ce0531370a188443c6e3a4dfc88c3 21873 Packages
+ 2ec5ef2eaada1024eccf8316fc5da31582401781d445c3689215aa9d3d639ebf 6851 Packages.gz

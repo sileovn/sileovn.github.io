@@ -1,0 +1,90 @@
+{
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "tabname": "Chi tiết",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "CallAssist",
+                    "shortDescription": "半越狱 版本："
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### Description\n\n半越狱 版本：\n 提示：需要激活后才可以使用，没有换设备的直接管\n 理配置中找回授权或者使用你的激活码激活\n 1.T9键盘搜索，双卡选卡拨打等.锁屏来电显示拒接\n 按钮\n 2.来去电接通振动，挂断振动，来去电归属地显示\n 3.支持骚扰拦截，自定义黑名单，区域骚扰拦截操作，\n 还可使用360管家类数据库识别骚扰\n 4.短信归属地，短信双卡选卡等.\n 5.通话记录合并（破条数限制除外-需越狱），通讯录显\n 示头像，号码等\n • 重要提示：\n 状态栏美化部分，通话录音，及桌面相关功能还需要你用 Serotonin 引导成功后才行!\n 请在 Bootstarp中应用列表 并启用以下进程注入：\n com.apple.InCallService\n com.apple.mobilephone\n com.apple.MobileSMS\n com.apple.MobileAddressBook\n com.apple.Preferences",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.7.9"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Architecture",
+                    "text": "iphoneos-arm64e"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer",
+                    "text": "xybp888"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": "xybp888 <8657156@qq.com>"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "Tweaks"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Depends",
+                    "text": "firmware (>= 15.0), ellekit, preferenceloader"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Download .deb",
+                    "action": "openURL",
+                    "url": "https://sileovn.github.io/pool/com.sileovn.callassist16/com.sileovn.callassist16_1.7.9_iphoneos-arm64e.deb",
+                    "openExternal": true
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "Https://sileovn.github.io (c) Hoàn Pro",
+                    "textColor": "#999999",
+                    "fontSize": 12,
+                    "alignment": 1
+                }
+            ]
+        },
+        {
+            "tabname": "Nhật ký thay đổi",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "#### Version 1.7.9\n\nĐẳng cấp VIP"
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "—",
+                    "textColor": "#999999",
+                    "fontSize": 10,
+                    "alignment": 1
+                }
+            ]
+        }
+    ],
+    "tintColor": "#5777B8"
+}
