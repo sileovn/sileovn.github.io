@@ -1,0 +1,90 @@
+{
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "tabname": "Chi tiết",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "HideSerialNumber",
+                    "shortDescription": "Hide Serial Number in Settings About page."
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### Description\n\nHide Serial Number in Settings About page.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "0.0.4"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Architecture",
+                    "text": "iphoneos-arm64e"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer",
+                    "text": "ichitaso"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": "ichitaso"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "Tweaks"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Depends",
+                    "text": "firmware (>= 12.2), mobilesubstrate, preferenceloader"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Download .deb",
+                    "action": "openURL",
+                    "url": "https://sileovn.github.io/pool/com.sileovn.hideserialnumber/com.sileovn.hideserialnumber_0.0.4_iphoneos-arm64e.deb",
+                    "openExternal": true
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "Https://sileovn.github.io (c) Hoàn Pro",
+                    "textColor": "#999999",
+                    "fontSize": 12,
+                    "alignment": 1
+                }
+            ]
+        },
+        {
+            "tabname": "Nhật ký thay đổi",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "#### Version 0.0.4\n\nĐẳng cấp VIP"
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "—",
+                    "textColor": "#999999",
+                    "fontSize": 10,
+                    "alignment": 1
+                }
+            ]
+        }
+    ],
+    "tintColor": "#5777B8"
+}

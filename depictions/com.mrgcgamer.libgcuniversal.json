@@ -1,0 +1,90 @@
+{
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "tabname": "Chi tiết",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "LibGcUniversal",
+                    "shortDescription": "An awesome library of some sort!!"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### Description\n\nAn awesome library of some sort!!",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.6.4"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Architecture",
+                    "text": "iphoneos-arm64e"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer",
+                    "text": "MrGcGamer"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": "MrGcGamer"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "Development"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Depends",
+                    "text": "firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Download .deb",
+                    "action": "openURL",
+                    "url": "https://sileovn.github.io/pool/com.mrgcgamer.libgcuniversal/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm64e.deb",
+                    "openExternal": true
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "Https://sileovn.github.io (c) Hoàn Pro",
+                    "textColor": "#999999",
+                    "fontSize": 12,
+                    "alignment": 1
+                }
+            ]
+        },
+        {
+            "tabname": "Nhật ký thay đổi",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "#### Version 1.6.4\n\nĐẳng cấp VIP"
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "—",
+                    "textColor": "#999999",
+                    "fontSize": 10,
+                    "alignment": 1
+                }
+            ]
+        }
+    ],
+    "tintColor": "#5777B8"
+}

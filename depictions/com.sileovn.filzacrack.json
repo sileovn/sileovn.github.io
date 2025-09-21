@@ -1,0 +1,90 @@
+{
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "tabname": "Chi tiết",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Filza Cr@ck",
+                    "shortDescription": "Filza unlock full functionality, the main program please install in the official source"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### Description\n\nFilza unlock full functionality, the main program please install in the official source",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.1-8"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Architecture",
+                    "text": "iphoneos-arm64e"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer",
+                    "text": "Nets"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": "Netskao"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "Tweaks"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Depends",
+                    "text": "firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Download .deb",
+                    "action": "openURL",
+                    "url": "https://sileovn.github.io/pool/com.sileovn.filzacrack/com.sileovn.filzacrack_1.1-8_iphoneos-arm64e.deb",
+                    "openExternal": true
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "Https://sileovn.github.io (c) Hoàn Pro",
+                    "textColor": "#999999",
+                    "fontSize": 12,
+                    "alignment": 1
+                }
+            ]
+        },
+        {
+            "tabname": "Nhật ký thay đổi",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "#### Version 1.1-8\n\nĐẳng cấp VIP"
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "—",
+                    "textColor": "#999999",
+                    "fontSize": 10,
+                    "alignment": 1
+                }
+            ]
+        }
+    ],
+    "tintColor": "#5777B8"
+}
